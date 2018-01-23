@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetworkingServer", "C:\Users\Joseph\Documents\Visual Studio 2015\Projects\NetworkingServer\NetworkingServer\NetworkingServer.vcxproj", "{90ADF08C-F12C-4DF1-8926-62A074B4A966}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90ADF08C-F12C-4DF1-8926-62A074B4A966}.Debug|Win32.ActiveCfg = Debug|Win32
+		{90ADF08C-F12C-4DF1-8926-62A074B4A966}.Debug|Win32.Build.0 = Debug|Win32
+		{90ADF08C-F12C-4DF1-8926-62A074B4A966}.Release|Win32.ActiveCfg = Release|Win32
+		{90ADF08C-F12C-4DF1-8926-62A074B4A966}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E997125B-5215-4BCA-855A-50C91DAB1535}
+	EndGlobalSection
+EndGlobal
